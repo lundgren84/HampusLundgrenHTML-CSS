@@ -66,14 +66,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DiscoverTheTagWorld.html" />
     <Content Include="image\Einstein.PNG" />
     <Content Include="packages.config" />
-    <Content Include="sound\ljud1" />
-    <Content Include="sound\ljud2" />
-    <Content Include="sound\ljud3" />
-    <Content Include="video\video1" />
-    <Content Include="video\video2" />
-    <Content Include="video\video3" />
+    <Content Include="video\ljud2.ogv" />
+    <Content Include="video\ljud3-webm" />
+    <Content Include="video\video2.ogv" />
+    <Content Include="video\video3.webm" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -82,12 +81,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Family.html" />
+    <Content Include="structuralHTML5elements.html" />
     <Content Include="image\gym.PNG" />
     <Content Include="image\health.PNG" />
     <Content Include="image\run.PNG" />
     <Content Include="Health.html" />
     <Content Include="index.html" />
+    <Content Include="video\ljud1.mp4" />
+    <Content Include="video\video1.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
